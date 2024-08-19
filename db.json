@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "category": "CSPM Executive dashboard",
+      "widgets": [
+        {
+          "id": "825",
+          "title": "cloud account",
+          "text": "2 connected"
+        },
+        {
+          "id": "408",
+          "title": "cloud risk mangement",
+          "text": "test cases"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "CNPP dasboard",
+      "widgets": [
+        {
+          "id": "342",
+          "title": "Top 5 namespace",
+          "text": "no image found"
+        },
+        {
+          "id": "304",
+          "title": "workload alerts",
+          "text": "no data found"
+        }
+      ]
+    }
+  ]
+}
